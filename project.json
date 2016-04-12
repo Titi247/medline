@@ -1,0 +1,10 @@
+{
+    "name": "medline",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "medline.xml",
+    "author": "Titi247",
+    "minimum_firmware_version": 42
+}
